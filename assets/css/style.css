@@ -1,22 +1,41 @@
-body{
+body {
     /* background: linear-gradient(#ff7f83, #2700f6); */
-    background: linear-gradient(to right, #00ffe9, #2e3192);
+    background: linear-gradient(to right, #346b6d, #2a445e, #58094f);
 
 
 }
-.fixed-top{
+
+.fixed-top {
     background-color: #d84e55;
 }
-.sobremi{
+
+.sobremi {
     width: 1000px;
     height: 500px;
-   
+
 }
-.slide{
+.card{
+    border: solid 1px; 
+}
+.card-body{
+    background-color: #ede8ba;
+    
+}
+
+.slide {
     margin-left: 320px;
     margin-top: 100px;
 }
 
+.row {
+    background-color: antiquewhite;
+    height: 100px;
+
+}
+
+.contacto a {
+    font-size: 4rem;
+}/*modificar el tamaño de los iconos de bootstrap */
 
 
 /* font-family: 'Cabin Condensed', sans-serif;< */
