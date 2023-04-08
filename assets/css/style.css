@@ -1,3 +1,12 @@
+body{
+    /* background: linear-gradient(#ff7f83, #2700f6); */
+    background: linear-gradient(to right, #00ffe9, #2e3192);
+
+
+}
+.fixed-top{
+    background-color: #d84e55;
+}
 .sobremi{
     width: 1000px;
     height: 500px;
