@@ -1,41 +1,37 @@
 body {
-    /* background: linear-gradient(#ff7f83, #2700f6); */
     background: linear-gradient(to right, #346b6d, #2a445e, #58094f);
-
-
 }
-
-.fixed-top {
-    background-color: #d84e55;
-}
-
 .sobremi {
     width: 1000px;
     height: 500px;
-
 }
 .card{
     border: solid 1px; 
 }
 .card-body{
     background-color: #ede8ba;
-    
+    font-family: 'Cabin Condensed', sans-serif
 }
-
 .slide {
     margin-left: 320px;
     margin-top: 100px;
 }
-
 .row {
     background-color: antiquewhite;
     height: 100px;
 
 }
+.contacto{
+    border-radius: 150px
+}
 
 .contacto a {
     font-size: 4rem;
+    color: black;
 }/*modificar el tamaño de los iconos de bootstrap */
 
+footer{
+    background-color: black;
+}
 
 /* font-family: 'Cabin Condensed', sans-serif;< */
