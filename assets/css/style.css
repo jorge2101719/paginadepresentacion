@@ -5,6 +5,16 @@ body {
     width: 1000px;
     height: 500px;
 }
+.w-100{
+    width: 680px;
+    height: 510px;
+}
+.primeraimagen{
+    color: #F6FDAA;
+}
+.secundariimagen{
+    background-color: aliceblue;
+}
 .card{
     border: solid 1px; 
 }
