@@ -35,7 +35,7 @@ body {
 }
 .row {
     background-color: antiquewhite;
-    height: 100px;
+    height: 80px;
 
 }
 .contacto{
@@ -43,12 +43,21 @@ body {
 }
 
 .contacto a {
-    font-size: 4rem;
+    font-size: 3rem;
     color: black;
 }/*modificar el tamaño de los iconos de bootstrap */
-
+.iconos1{
+    margin-left: 350px;
+}
+.iconos{
+    margin-left: 40px;
+}
 footer{
     background-color: black;
+    height: 25xp;
 }
+/* .pie{
+    size: 10px;
+} */
 
 /* font-family: 'Cabin Condensed', sans-serif;< */
